@@ -27,7 +27,7 @@ const DetalleContainer = () => {
       </div>
       <div style={{width:'30%'}}>
         <p>Titulo: {name}  </p>
-        <p>Precio: $ {price} </p>
+        <p>Preciio: $ {price} </p>
         <p> <b>Descripción:</b>{description}  </p>       
       </div>
     </div>
