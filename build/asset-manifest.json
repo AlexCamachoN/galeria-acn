@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AlexCamachoN/falabella/static/css/main.2dca636c.css",
+    "main.js": "/AlexCamachoN/falabella/static/js/main.326edd81.js",
+    "static/js/787.0f48b25b.chunk.js": "/AlexCamachoN/falabella/static/js/787.0f48b25b.chunk.js",
+    "static/media/Fotoperfil.jpg": "/AlexCamachoN/falabella/static/media/Fotoperfil.f10a327698d3e99a79a9.jpg",
+    "static/media/gradobachillerfrontal.jpeg": "/AlexCamachoN/falabella/static/media/gradobachillerfrontal.8efaea9b19ca4570eb0e.jpeg",
+    "static/media/logoblanco.png": "/AlexCamachoN/falabella/static/media/logoblanco.7e49410c9c49788f4423.png",
+    "index.html": "/AlexCamachoN/falabella/index.html",
+    "main.2dca636c.css.map": "/AlexCamachoN/falabella/static/css/main.2dca636c.css.map",
+    "main.326edd81.js.map": "/AlexCamachoN/falabella/static/js/main.326edd81.js.map",
+    "787.0f48b25b.chunk.js.map": "/AlexCamachoN/falabella/static/js/787.0f48b25b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dca636c.css",
+    "static/js/main.326edd81.js"
+  ]
+}
